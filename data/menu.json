@@ -1,0 +1,165 @@
+{
+    "menu" : [
+        {
+            "category" : "Nasi Goreng",
+            "name" : "Nasi Goreng Smoked Chicken",
+            "description" : "Nasi Goreng yang di osengkan dengan sedikit garam dan bumbu barbeque",
+            "price" : 33637,
+            "picture" : "Nasi Goreng Smoked Chicken.jpg"
+        },
+        {
+            "category" : "Nasi Goreng",
+            "name" : "Nasi Goreng Sosis",
+            "description" : "Nasi Goreng yang dipadukan dengan irisan sosis, telur, kacang polong dan bakso",
+            "price" : 36364,
+            "picture" : "Nasi Goreng Sosis.jpg"
+        },
+        {
+            "category" :"Nasi Goreng",
+            "name" : "Nasi Goreng Petai",
+            "description" :"Nasi Goreng yang dicampur dengan potongan potongan petai, cabai, bakso dan telur",
+            "price" : 36364,
+            "picture" :"Nasi Goreng Petai.jpg"
+        },
+        {
+            "category" :"Nasi Goreng",
+            "name" :"Nasi Goreng Spesial",
+            "description" : "Nasi Goreng dengan telur dadar dan banyak potongan potongan topping yaitu bakso, ayam, cabai, sayur-sayur kecil dan telur yang dicampur dengan nasi goreng tersebut",
+            "price" : 30001,
+            "picture" : "Nasi Goreng Spesial.jpg"
+        },
+        {
+            "category" :"Nasi Goreng",
+            "name" :"Nasi Goreng Teri Medan",
+            "description" : "Nasi Goreng dengan campuran teri medan sebagai topping utamanya dan topping lainnya yaitu kacang polong, bakso, cabai dan telur yang telah dicampur.",
+            "price" : 39091,
+            "picture" : "Nasi Goreng Teri Medan.jpg"
+        },
+        {
+            "category" :"Nasi Goreng",
+            "name" : "Nasi Goreng Modern",
+            "description" : "Nasi Goreng dengan campuran telur yang telah dipotong seperti tali tebal dengan tambahan bakso, sayuran, cabai dan telur yang dicampur",
+            "price" : 36364,
+            "picture" : "Nasi Goreng Modern.jpg"
+        },
+        {
+            "category" : "Mie",
+            "name" : "Mie Halus Bakso",
+            "description" : "Mie yang telah dibuat hingga halus dengan campuran bihun dan tambahan bakso juga dengan potongan-potongan sayuran dan bawang goreng",
+            "price" : 20001,
+            "picture" : "Mie Halus.jpg"
+        },
+        {
+            "category" : "Mie",
+            "name" : "Mie Kuah Ayam",
+            "description" : "Mie kuah dengan campuran ayam dan sayuran - sayuran seperti brokoli, sawi dan lain lain",
+            "price" : 31910,
+            "picture" : "Mie Kuah Ayam.jpg"
+        },
+        {
+            "category" : "Mie",
+            "name" : "Mie Goreng Ayam",
+            "description" : "Mie yang digoreng dengan tambahan ayam dan sayuran sayuran seperti kol, sawi dan lain lain",
+            "price" : 30910,
+            "picture" : "Mie Goreng Ayam.jpg"
+        },
+        {
+            "category" : "Mie",
+            "name" : "Mie Ayam Spesial",
+            "description" : "Bakmi yang dicampur daging ayam dengan tambahan sayuran seperti sawi dan juga dengan bumbu khas solaria yang terasa pedas",
+            "price" : 23637,
+            "picture" : "Mie Ayam Spesial.jpg"
+        },
+        {
+            "category" : "Mie",
+            "name" : "Mie Ayam Bakso",
+            "description" : "Bakmi yang ditambah potongan potongan ayam dan dengan tambahan sayuran seperti sawi, juga bakso kuah yang terpisah dari mangkuk mie tersebut",
+            "price" : 28182,
+            "picture" : "Mie Ayam Bakso.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Ayam",
+            "description" : "Bihun rebus dengan tambahan sawi dan ayam",
+            "price" : 20910,
+            "picture" : "Bihun Ayam.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Ayam Bakso",
+            "description" : "Bihun rebus dengan tambahan sawi dan ayam, juga bakso kuah yang berbeda mangkuk dengan bihun tersebut",
+            "price" : 23637,
+            "picture" : "Bihun Ayam Bakso.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Goreng Ayam",
+            "description" : "Bihun goreng dengan tambahan sawi, potongan ayam, dan telur yang dicampur",
+            "price" : 29091,
+            "picture" : "Bihun Goreng Ayam.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Siram Ayam",
+            "description" : "Bihun rebus yang kuahnya adalah hasil olahan yang mempunyai rasa ayam dengan tambahan daging ayam dan potongan sawi",
+            "price" : 29091,
+            "picture" : "Bihun Siram Ayam.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Kuah Ayam",
+            "description" : "Bihun rebus kuah yang ditambah potongan ayam dan sayuran - sayuran",
+            "price" : 29091,
+            "picture" : "Bihun Kuah Ayam.jpg"
+        },
+        {
+            "category" : "Bihun",
+            "name" : "Bihun Siram Sapi",
+            "description" : "Bihun yang kuahnya adalah olahan khusus khas solaria yang memiliki rasa sapi, ditambah dengan sayuran sayuran seperti sawi dan brokoli",
+            "price" : 36364,
+            "picture" : "Bihun Siram Sapi.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Es Jeruk",
+            "description" : "Buah jeruk yang dibuat sedemikian rupa hingga menjadi jus jeruk dengan tambahan es untuk membuat jusnya menjadi lebih dingin dan segar",
+            "price" : 17273,
+            "picture" : "Es Jeruk.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Es Sjora",
+            "description" : "Buah mangga yang dibuat hingga menjadi jus mangga ditambah dengan es agar lebih segar dan lebih dingin, juga ditambah bumbu khusus",
+            "price" : 16364,
+            "picture" : "Es Sjora.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Frozen Cappucino",
+            "description" : "Kopi kapucino yang ditambahkan topping dengan bubuk kapucino agar lebih manis dan lebih berasa",
+            "price" : 18182,
+            "picture" : "Frozen Cappucino.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Jus Alpukat",
+            "description" : "Buah alpukat yang dibuat hingga halus dan menjadi jus alpukat, juga ditambahkan susu coklat agar lebih manis",
+            "price" : 18637,
+            "picture" : "Jus Alpukat.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Jus Mangga",
+            "description" : "Buah mangga yang dibuat hingga menjadi jus mangga yang dingin",
+            "price" : 18637,
+            "picture" : "Jus Mangga.jpg"
+        },
+        {
+            "category" : "Minuman",
+            "name" : "Jus Melon",
+            "description" : "Buah melon yang dibuat menjadi jus yang dingin",
+            "price" : 18637,
+            "picture" : "Jus Melon.jpg"
+        }
+    ]
+}

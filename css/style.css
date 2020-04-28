@@ -1,0 +1,48 @@
+.navbar{
+    padding-bottom: 10px;
+    background-color: #632A50;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left:25px;
+    padding-right: 25px;
+    font-weight: bold;
+}
+
+.btn-primary{
+    background-color: #814F72;
+    border-color: #814F72;
+}
+
+.footer{
+    color:#f8f9fa;
+    background-color: #914D76;
+    padding-top : 28px;
+    padding-bottom:27px;
+}
+
+.footertext{
+    color : white;
+}
+
+.footertext:hover{
+    text-decoration: none;
+    color:#c4c2c2;
+}
+
+.btn-secondary{
+    background-color: #825173;
+    border-color: #825173;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .show>.btn-secondary.dropdown-toggle{
+    background-color:#733D62;
+}
+
+.dropdown-item.active{
+    background-color: #6B215F;
+}
+
+.dropdown-item:active{
+    background-color: #9C6294;
+}
